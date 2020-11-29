@@ -19,7 +19,7 @@ class CalculateTest {
 
     @Test
     void addTwoMoreIntegers() {
-        int expectedResult = 20;
+        int expectedResult = 24;
 
         Calculate calculate = new Calculate();
 
