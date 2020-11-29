@@ -23,7 +23,7 @@ class CalculateTest {
 
         Calculate calculate = new Calculate();
 
-        int actualResult = calculate.addIntegers(15, 5);
+        int actualResult = calculate.addIntegers(15, 6);
 
         assertEquals(expectedResult, actualResult);
     }
