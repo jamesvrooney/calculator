@@ -24,7 +24,7 @@ class CalculateTest {
     void addTwoMoreIntegers() {
         int expectedResult = 20;
 
-        int actualResult = calculate.addIntegers(15, 6);
+        int actualResult = calculate.addIntegers(15, 5);
 
         assertEquals(expectedResult, actualResult);
     }
